@@ -1,0 +1,10 @@
+android_app_import {
+	name: "InnerTune",
+	owner: "z-huang",
+	apk: "innertune-0.5.2.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
